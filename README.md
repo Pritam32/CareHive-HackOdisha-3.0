@@ -2,8 +2,7 @@
 
 Website Link: https://carehiveservices.netlify.app/
 
-# CAREHIVE
-"At CareHive, your safety is our top priority. We employ stringent security measures to ensure the trustworthiness of our cooks, babysitters, and caretakers. Our thorough vetting process, including background checks and interviews, guarantees that you and your family can hire with confidence, providing peace of mind for your loved ones."
+At CareHive, your safety is our top priority. We employ stringent security measures to ensure the trustworthiness of our cooks, babysitters, and caretakers. Our thorough vetting process, including background checks and interviews, guarantees that you and your family can hire with confidence, providing peace of mind for your loved ones.
 
 About the 'TEAM' 🙌👋
 We are a dynamic and passionate team that came together to participate in the HackOdisha 3.0 Hackathon with our project, Project CAREHIVE. Each member of our team played a crucial role in bringing our innovative ideas to life and creating a functional and impressive solution.
@@ -19,6 +18,7 @@ Adeptly managed file uploads, an interactive JamBoard and crafted a productivity
 
 Shipra Tanvi 📁 - Project Manager (Junior)
 Nishant's visionary leadership as Project Director encompassed guiding, collaboratively refining frontend style, and also enhancing backend elements. His resource collection and meticulous text crafting enriched our project holistically.
+
 
 
 ![Screenshot (82)](https://github.com/Pritam32/CareHive-HackOdisha-3.0/assets/95869177/77879b69-80ca-473a-97b1-3b4d472a6af9)
